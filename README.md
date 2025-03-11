@@ -9,17 +9,7 @@ An **Elliptic Torus** is a variation of a torus (a donut-shaped surface) where t
 
 The parametric equations for the elliptic torus used in the code are:
 
-\[
-x = (c + \cos(v)) \cos(u)
-\]
-
-\[
-y = (c + \cos(v)) \sin(u)
-\]
-
-\[
-z = \sin(v) + \cos(v)
-\]
+![Image](https://github.com/user-attachments/assets/8d985046-efb1-480d-8683-84c7101563ed)
 
 where:  
 - \( u \) and \( v \) are parameters that range from −𝜋 to 𝜋, defining the **circular sweep** of the torus.
@@ -30,8 +20,8 @@ where:
 
 ### **Breaking Down Each Equation**
 #### **1. \( x = (c + cos(v)) cos(u) \)**
-- The **\( (c + \cos(v)) \)** term modifies the **radius** dynamically based on \( v \).
-- The **\( \cos(u) \)** term determines the positioning along the **x-axis**.
+- The **\( (c + cos(v)) \)** term modifies the **radius** dynamically based on \( v \).
+- The **\( cos(u) \)** term determines the positioning along the **x-axis**.
 
 #### **2. \( y = (c + cos(v)) sin(u) \)**
 - This is similar to the \( x \)-equation but uses **\( sin(u) \)** for positioning along the **y-axis**.
