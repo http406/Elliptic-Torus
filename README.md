@@ -1,7 +1,7 @@
 # Elliptic-Torus
 
 ### **What is an Elliptic Torus?**  
-An **Elliptic Torus** is a variation of a torus (a donut-shaped surface) where the shape is influenced by an elliptical function rather than a simple circular cross-section. Unlike a standard torus that has a uniform circular profile, an elliptic torus has a more complex, **twisted, and deformed structure**, as seen in the image you shared.
+An **Elliptic Torus** is a variation of a torus where the shape is influenced by an elliptical function rather than a simple circular cross-section. Unlike a standard torus that has a uniform circular profile, an elliptic torus has a more complex, **twisted, and deformed structure**.
 
 ---
 
